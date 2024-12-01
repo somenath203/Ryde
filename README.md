@@ -34,7 +34,9 @@ This is a user-friendly online car booking mobile application built using React 
 - **Styling**: NativeWind  
 - **Search Box**: react-native-google-places-autocomplete (powered by Google Maps API)  
 - **Map Display**: react-native-maps  
-- **Route Directions**: react-native-maps-directions (powered by Google Directions API)  
+- **Route Directions**: react-native-maps-directions (powered by Google Directions API)
+- **Google Places API**: Retrieves location data.
+- **Google Directions API**: Fetches routes and directions.
 - **Payment Processing**: Stripe  
 - **State Management**: Zustand  
 - **Geocoding API**: GEOAPIFY_API  
