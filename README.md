@@ -1,4 +1,4 @@
-# Car Booking Mobile Application
+# Ryde
 
 ## Demo video of the overall application
 
@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=lbGS07Fiw2c
 ---
 
 ## Introduction  
-This is a user-friendly online car booking mobile application built using React Native. The app provides an easy and efficient way to book rides. It allows users to authenticate, view their current location, search for destinations, choose a driver, and make secure payments for their rides. The app is designed to deliver a seamless and reliable ride-booking experience.
+Ryde is a user-friendly online car booking mobile application built using React Native. The app provides an easy and efficient way to book rides. It allows users to authenticate, view their current location, search for destinations, choose a driver, and make secure payments for their rides. The app is designed to deliver a seamless and reliable ride-booking experience.
 
 ---
 
