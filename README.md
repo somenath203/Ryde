@@ -41,5 +41,3 @@ This is a user-friendly online car booking mobile application built using React 
 - **State Management**: Zustand  
 - **Geocoding API**: GEOAPIFY_API  
 - **Database**: Neon PostgreSQL (for user, driver, and ride details)  
-
-This application combines robust technologies to provide a fast, secure, and reliable ride-booking experience.
