@@ -32,9 +32,9 @@ Ryde is a user-friendly online car booking mobile application built using React 
 - **Authentication**: Clerk  
 - **Location Services**: Expo-location  
 - **Styling**: NativeWind  
-- **Search Box**: react-native-google-places-autocomplete (powered by Google Maps API)  
+- **Search Box**: react-native-google-places-autocomplete   
 - **Map Display**: react-native-maps  
-- **Route Directions**: react-native-maps-directions (powered by Google Directions API)
+- **Route Directions**: react-native-maps-directions 
 - **Google Places API**: Retrieves location data.
 - **Google Directions API**: Fetches routes and directions.
 - **Payment Processing**: Stripe  
